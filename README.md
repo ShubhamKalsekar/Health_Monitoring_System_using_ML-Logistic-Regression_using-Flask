@@ -1,6 +1,6 @@
-# health_monitoring-_System_using_ML-LR_Using Flask
+# Health_Monitoring_System_using_ML(Logistic Regression)_Using Flask
 
-*Insatll Flask in VSCode
+*Install Flask in VSCode
 1.Install the Python extension.
 
 2.Install a version of Python 3 Options include:
